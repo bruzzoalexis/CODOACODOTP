@@ -16,6 +16,11 @@
 
 .imageContainer {
     text-align: center
+    margin-left: 3px;
+}
+#dis {
+    margin-top: -2em;
+    margin-right: -4em;
 }
 
 .speakerimage {
@@ -57,6 +62,7 @@
 .bsAsContainer {
     display: flex;
 }
+
 
 footer {
     background: rgb(2, 0, 36);
